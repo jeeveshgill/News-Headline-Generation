@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+streamlit
+# only needed for the transformer (abstractive) model:
+torch
+transformers
+sentencepiece
